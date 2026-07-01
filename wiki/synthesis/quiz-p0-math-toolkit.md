@@ -11,6 +11,8 @@ Strict checkpoint for Module P0: [[Complex Numbers]] · [[Euler's Formula]] · [
 
 **Format:** 10 questions, 100 points. Closed-book. Tell me *"I'm ready for the P0 quiz"* and answer in chat; I deliver them in 3 batches, grade strictly, and append your row to [[Score Log]].
 
+**Warm up first (open-book):** [[Problems P0 Math Toolkit]] — the L1→L4 drill ladder. Every solution you share there runs through the [[Remediation Loop]] before you sit this gate.
+
 ## Section A — Complex Numbers (30 pts)
 
 1. **(6 pts)** State the defining property of `j`, and explain in one or two sentences why `j` is legitimate ("the second axis") rather than a fake number. Why do we use `j` and not `i`?

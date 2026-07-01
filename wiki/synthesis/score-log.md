@@ -31,6 +31,10 @@ Grade bands: **A** 90–100 · **B** 80–89 (pass) · **C** 70–79 (fail, clos
 4. I grade each part strictly, total it, assign a band, and **append a row below**.
 5. Pass → I unlock the next module in [[Curriculum]] and update [[Learning Log]] mastery. Fail → I point you to the exact sections to redo, then you retake (new row).
 
+## Practice & remediation
+
+Before a graded gate quiz, each module has an **open-book problem set** ([[Problems P0 Math Toolkit]], [[Problems P1 Linear Algebra]], [[Problems P2 Calculus And Differential Equations]]) with a rising L1→L4 complexity ladder. These are *not* logged as gate rows — they're formative. Every solution you share (drill **or** quiz) runs through the [[Remediation Loop]]: I classify the error, name the misconception, re-teach it deeper, and give a twin problem. Named weaknesses go to the **Weakness Log** in [[Learning Log]] and must be cleared for a concept to reach 🌿/🌳 mastery. The per-quiz *diagnosis* below is the summary; the drill-level diagnoses live in the Weakness Log.
+
 ## Log
 
 | Date | Quiz | Score | Band | Result | Weakest area / diagnosis |

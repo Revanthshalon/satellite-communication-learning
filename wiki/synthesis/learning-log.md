@@ -22,8 +22,18 @@ Mastery scale: 🌱 new · 🌿 developing · 🌳 fluent.
 | [[Vectors And Dot Products]] | 🌱 | 2026-06-30 | P1 page built. Locked until P0 passed; [[Quiz P1 Linear Algebra]]. |
 | [[Matrices And Linear Transformations]] | 🌱 | 2026-06-30 | P1 page built. Quiz-gated. |
 | [[Eigenvalues And Eigenvectors]] | 🌱 | 2026-06-30 | P1 page built. Quiz-gated. |
+| [[Derivatives And Integrals]] | 🌱 | 2026-07-01 | P2 page built. Drills: [[Problems P2 Calculus And Differential Equations]]; quiz-gated. |
+| [[Differential Equations]] | 🌱 | 2026-07-01 | P2 page built. Quiz-gated. |
 
-Mastery only advances to 🌿/🌳 after a passing score in [[Score Log]] — reading a page is not mastery.
+Mastery only advances to 🌿/🌳 after a passing score in [[Score Log]] **and** no unresolved weakness for the concept below — reading a page is not mastery.
+
+## Weakness Log
+
+Populated by the [[Remediation Loop]] whenever a shared solution reveals a gap. A row is **resolved** only when its twin problem is passed. Unresolved rows hold back the related concept's mastery and seed the Review Queue.
+
+| Date | Concept | Error type | Misconception (one line) | Twin problem | Status |
+|------|---------|-----------|--------------------------|--------------|--------|
+| _—_ | _—_ | _—_ | _No weaknesses logged yet — appears after your first shared solution._ | _—_ | _—_ |
 
 ## Open Questions
 

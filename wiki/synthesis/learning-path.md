@@ -138,7 +138,9 @@ flowchart TD
 ## 4. How to use this page
 
 - Keep this open while studying; glance at the **dependency map** whenever you wonder "why am I learning this?"
+- **Per-module micro-flow:** **read** the concept pages → **drill** the module's `Problems …` set (rising L1→L4 complexity) → **sit** the gate quiz. The drills are open-book practice; the quiz is the closed-book gate.
+- Every solution you share runs through the [[Remediation Loop]] — I name the weakness and re-teach it deeper, then give you a twin problem. Weaknesses live in [[Learning Log]] and hold back mastery until cleared.
 - After each module, take its quiz; I log the score in [[Score Log]] and flip the node ▶ → ✅ here and in [[Curriculum]].
 - The ⭐ chapters are where this all becomes *satellite communications* — aim for them.
 
-**Next action:** finish reading the three P0 pages, then say *"I'm ready for the P0 quiz."*
+**Next action:** finish reading the three P0 pages, warm up on [[Problems P0 Math Toolkit]], then say *"I'm ready for the P0 quiz."*

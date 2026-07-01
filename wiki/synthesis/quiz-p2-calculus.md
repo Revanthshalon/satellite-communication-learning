@@ -13,6 +13,8 @@ Strict checkpoint for Module P2: [[Derivatives And Integrals]] · [[Differential
 
 **Format:** 10 questions, 100 points. Closed-book. Tell me *"I'm ready for the P2 quiz"* and answer in chat; I deliver them in 3 batches, grade strictly, and append your row to [[Score Log]].
 
+**Warm up first (open-book):** [[Problems P2 Calculus And Differential Equations]] — the L1→L4 drill ladder. Every solution you share there runs through the [[Remediation Loop]] before you sit this gate.
+
 ## Section A — Derivatives & Integrals (30 pts)
 
 1. **(6 pts)** Define the derivative $dx/dt$ as a limit (write the difference quotient). If $x$ is in volts and $t$ in seconds, state the units of $\dot x$ and of $\int x\,dt$.

@@ -32,9 +32,9 @@ Every continuous-time system — a receiver's loop filter, a satellite's attitud
 | Left-half-plane rule | Asymptotic stability criterion | Ch 5–6 |
 | $e^{st}$ eigenfunction / $d/dt\to s$ | Laplace transform, transfer functions | Ch 2, 5 |
 
-## Checkpoint
+## Practice & Checkpoint
 
-Strict gate: **[[Quiz P2 Calculus And Differential Equations]]** (100 pts, pass ≥ 80%). Passing unlocks **P3 [[Signals And Systems Fundamentals]]** in [[Curriculum]]. Scores logged in [[Score Log]].
+Drill first with **[[Problems P2 Calculus And Differential Equations]]** — an open-book L1→L4 ladder (mechanics → operations → structure → applied); every solution you share runs through the [[Remediation Loop]]. Then the strict gate: **[[Quiz P2 Calculus And Differential Equations]]** (100 pts, pass ≥ 80%). Passing unlocks **P3 [[Signals And Systems Fundamentals]]** in [[Curriculum]]. Scores logged in [[Score Log]].
 
 ## My Understanding
 

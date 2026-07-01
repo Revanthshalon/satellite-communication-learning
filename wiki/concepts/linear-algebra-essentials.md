@@ -32,9 +32,9 @@ The state of a receiver's tracking loop, the dynamics of a satellite's attitude,
 | Eigenvalues / modes | Natural frequencies, stability, ZIR | Ch 5 |
 | Eigenvalue placement | Observer & feedback design | Ch 6 |
 
-## Checkpoint
+## Practice & Checkpoint
 
-Strict gate: **[[Quiz P1 Linear Algebra]]** (100 pts, pass ≥ 80%). Passing unlocks **P2 [[Calculus And Differential Equations]]** in [[Curriculum]]. Scores logged in [[Score Log]].
+Drill first with **[[Problems P1 Linear Algebra]]** — an open-book L1→L4 ladder (mechanics → operations → structure → applied); every solution you share runs through the [[Remediation Loop]]. Then the strict gate: **[[Quiz P1 Linear Algebra]]** (100 pts, pass ≥ 80%). Passing unlocks **P2 [[Calculus And Differential Equations]]** in [[Curriculum]]. Scores logged in [[Score Log]].
 
 ## My Understanding
 

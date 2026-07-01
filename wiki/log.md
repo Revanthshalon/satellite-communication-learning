@@ -38,3 +38,7 @@ Converted skeleton [[Calculus And Differential Equations]] into the P2 module hu
 Updated: [[Curriculum]] (P2 row → 📘 built, quiz linked; feeds P3), [[Learning Path]] (P2 node built), index.
 P2 stays locked until [[Quiz P1 Linear Algebra]] is passed — the strict single-track gate is preserved.
 
+## [2026-07-01] refine | Reinforcement layer — problem sets + Remediation Loop
+Added a formative practice layer beneath the strict quizzes and wired it into the learning structure so it ships with every future module build. New progressive problem sets (L1 mechanics → L2 operations → L3 structure → L4 applied/satcom, per topic, with hidden worked-solution keys): [[Problems P0 Math Toolkit]], [[Problems P1 Linear Algebra]], [[Problems P2 Calculus And Differential Equations]]. New protocol [[Remediation Loop]]: on every shared solution I classify the error (conceptual/procedural/definitional/transfer), name the misconception, re-teach it from a deeper angle, and issue a twin problem; named weaknesses tracked in [[Learning Log]] → new Weakness Log and gate mastery.
+Baked into the process: [[Curriculum]] teaching format gained a "Problem set" step + a "Standard module build checklist"; module tables now show Drills → Gate; [[Learning Path]] gained the read → drill → quiz micro-flow; [[Score Log]] gained a Practice & remediation section; hubs [[Linear Algebra Essentials]] / [[Calculus And Differential Equations]] and all three quizzes now point to their drills. Updated index, [[Learning Log]] (P2 rows + Weakness Log).
+

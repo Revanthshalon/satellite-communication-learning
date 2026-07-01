@@ -33,4 +33,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[Quiz P0 Math Toolkit]] — strict checkpoint for Module P0 (100 pts, pass ≥ 80%)
 - [[Quiz P1 Linear Algebra]] — strict checkpoint for Module P1 (100 pts, pass ≥ 80%)
 - [[Quiz P2 Calculus And Differential Equations]] — strict checkpoint for Module P2 (100 pts, pass ≥ 80%)
-- [[Learning Log]] — mastery levels and open questions across the knowledge base
+- [[Problems P0 Math Toolkit]] — progressive L1→L4 drill set for Module P0 (formative, open-book)
+- [[Problems P1 Linear Algebra]] — progressive L1→L4 drill set for Module P1 (formative, open-book)
+- [[Problems P2 Calculus And Differential Equations]] — progressive L1→L4 drill set for Module P2 (formative, open-book)
+- [[Remediation Loop]] — weakness-diagnosis + deeper re-teach protocol run on every shared solution
+- [[Learning Log]] — mastery levels, weakness log, and open questions across the knowledge base

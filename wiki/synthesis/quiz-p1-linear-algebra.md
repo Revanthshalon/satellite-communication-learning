@@ -13,6 +13,8 @@ Strict checkpoint for Module P1: [[Vectors And Dot Products]] · [[Matrices And 
 
 **Format:** 10 questions, 100 points. Closed-book. Tell me *"I'm ready for the P1 quiz"* and answer in chat; I deliver them in 3 batches, grade strictly, and append your row to [[Score Log]].
 
+**Warm up first (open-book):** [[Problems P1 Linear Algebra]] — the L1→L4 drill ladder. Every solution you share there runs through the [[Remediation Loop]] before you sit this gate.
+
 ## Section A — Vectors & Dot Products (30 pts)
 
 1. **(6 pts)** For $\mathbf{a}=\begin{bmatrix}1\\2\\2\end{bmatrix}$, $\mathbf{b}=\begin{bmatrix}3\\0\\-4\end{bmatrix}$: compute (a) $\mathbf{a}\cdot\mathbf{b}$, (b) $\lVert\mathbf{a}\rVert$, (c) $\lVert\mathbf{b}\rVert$.
