@@ -31,3 +31,10 @@ Converted skeleton [[Linear Algebra Essentials]] into the P1 module hub. New che
 Updated: [[Curriculum]] (P1 row → 📘 built, gated behind P0), index, [[Learning Log]].
 P1 stays locked until [[Quiz P0 Math Toolkit]] is passed — the strict gate is preserved.
 
+## [2026-07-01] ingest | Module P2 — Calculus & Differential Equations built
+Built P2 fully, mirroring the P0/P1 hub + sub-pages structure. Split the module into two deep pages to keep each focused, then tied both back to the P0/P1 machinery: the exponential law d/dt e^{at}=a e^{at} is presented as the same rule as the phasor d/dt→jω ([[Sinusoids And Phasors]]), and the ODE characteristic equation is presented as the continuous-time twin of the [[Eigenvalues And Eigenvectors|eigenvalue]] equation det(λI−A)=0. Covered: derivative/integral + FTC; first-order linear ODE, time constant, ZIR/ZSR; second-order ODE, characteristic equation, damping regimes, complex roots ⇒ decaying oscillation; left-half-plane stability rule; complex frequency s=σ+jω and the Laplace bridge. Grounded stability terminology in the book's Ch 5–6 (asymptotic stability). No external sources needed — derived from foundations.
+New concepts: [[Derivatives And Integrals]], [[Differential Equations]].
+Converted skeleton [[Calculus And Differential Equations]] into the P2 module hub. New checkpoint: [[Quiz P2 Calculus And Differential Equations]] (100 pts).
+Updated: [[Curriculum]] (P2 row → 📘 built, quiz linked; feeds P3), [[Learning Path]] (P2 node built), index.
+P2 stays locked until [[Quiz P1 Linear Algebra]] is passed — the strict single-track gate is preserved.
+

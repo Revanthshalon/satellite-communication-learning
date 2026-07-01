@@ -42,7 +42,7 @@ flowchart TD
     subgraph F["🧱 Phase 0 — Foundations (the prerequisites you build first)"]
         P0["P0 · Math Toolkit ▶<br/><small>complex numbers · Euler · phasors</small>"]
         P1["P1 · Linear Algebra 🔒<br/><small>vectors · matrices · eigenvalues</small>"]
-        P2["P2 · Calculus &amp; Diff Eq 🔒<br/><small>rates · e^at · linear ODEs</small>"]
+        P2["P2 · Calculus &amp; Diff Eq 📘<br/><small>rates · e^at · linear ODEs · stability</small>"]
         P3["P3 · Signals &amp; Systems 🔒<br/><small>LTI · convolution · Fourier</small>"]
         P4["P4 · Probability 🔒<br/><small>random variables · Bayes · Gaussian</small>"]
     end
@@ -122,7 +122,7 @@ flowchart TD
 |---|------|--------|-------------------|
 | ① | **Foundations** | [[Complex Numbers]] · [[Euler's Formula]] · [[Sinusoids And Phasors]] (P0) | The language of every wave. **← current** |
 | ② | | [[Linear Algebra Essentials]] (P1) | Vectors/eigenvalues — needed for state-space & estimation |
-| ③ | | [[Calculus And Differential Equations]] (P2) | How systems evolve in time |
+| ③ | | [[Calculus And Differential Equations]] (P2) 📘 | How systems evolve in time — rates, ODEs, stability (built) |
 | ④ | | [[Signals And Systems Fundamentals]] (P3) | LTI, convolution, Fourier — the first named prerequisite |
 | ⑤ | | [[Probability Fundamentals]] (P4) | Randomness — the second named prerequisite |
 | ⑥–⑧ | **Book: deterministic** | Ch 1–3 | Describe signals → modulation (PAM ⭐) |

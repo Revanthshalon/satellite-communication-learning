@@ -19,7 +19,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[Vectors And Dot Products]] — vectors, dot product, orthogonality, projection (P1)
 - [[Matrices And Linear Transformations]] — matrices as transforms, determinant, basis/rank (P1)
 - [[Eigenvalues And Eigenvectors]] — characteristic equation, modes, diagonalization (P1)
-- [[Calculus And Differential Equations]] — rates, e^{at}, linear ODEs (P2, skeleton)
+- [[Calculus And Differential Equations]] — P2 hub: rates, e^{at}, linear ODEs, stability (built)
+- [[Derivatives And Integrals]] — rate vs. area, FTC, the law d/dt e^{at}=a e^{at} (P2)
+- [[Differential Equations]] — e^{st} guess, characteristic equation, damping, LHP stability (P2)
 - [[Signals And Systems Fundamentals]] — LTI, convolution, Fourier (P3, skeleton)
 - [[Probability Fundamentals]] — random variables, Bayes, Gaussian (P4, skeleton)
 
@@ -30,4 +32,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[Score Log]] — append-only strict-grading record for every checkpoint/quiz
 - [[Quiz P0 Math Toolkit]] — strict checkpoint for Module P0 (100 pts, pass ≥ 80%)
 - [[Quiz P1 Linear Algebra]] — strict checkpoint for Module P1 (100 pts, pass ≥ 80%)
+- [[Quiz P2 Calculus And Differential Equations]] — strict checkpoint for Module P2 (100 pts, pass ≥ 80%)
 - [[Learning Log]] — mastery levels and open questions across the knowledge base

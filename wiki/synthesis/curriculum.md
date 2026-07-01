@@ -27,7 +27,7 @@ P0 Math Toolkit ─► P1 Linear Algebra ─┐
 |---|--------|--------|----------|-----------|
 | P0 | [[Complex Numbers]], [[Euler's Formula]], [[Sinusoids And Phasors]] | ▶ active | Imaginary unit `j`, complex plane, polar form, magnitude/phase, Euler's identity, sinusoids as rotating phasors | [[Quiz P0 Math Toolkit]] |
 | P1 | [[Linear Algebra Essentials]] → [[Vectors And Dot Products]], [[Matrices And Linear Transformations]], [[Eigenvalues And Eigenvectors]] | 📘 built · locked until P0 passed | Vectors, dot product, orthogonality, projection; matrices as transformations, determinant, independence/span/basis/rank; eigenvalues/eigenvectors, characteristic equation, diagonalization & modes | [[Quiz P1 Linear Algebra]] |
-| P2 | [[Calculus And Differential Equations]] | 🔒 locked | Derivatives, integrals, the exponential `e^{at}`, 1st/2nd-order linear ODEs, why `e^{st}` solves them | _to build_ |
+| P2 | [[Calculus And Differential Equations]] → [[Derivatives And Integrals]], [[Differential Equations]] | 📘 built · locked until P1 passed | Derivatives, integrals, FTC, the exponential `e^{at}`; 1st/2nd-order linear ODEs, characteristic equation, damping, complex roots ⇒ oscillation, left-half-plane stability, why `e^{st}` solves them | [[Quiz P2 Calculus And Differential Equations]] |
 | P3 | [[Signals And Systems Fundamentals]] | 🔒 locked | Signals, LTI systems, impulse response, convolution, frequency response, the Fourier transform, sampling | _to build_ |
 | P4 | [[Probability Fundamentals]] | 🔒 locked | Sample spaces, conditional probability, Bayes' rule, random variables, pdf/pmf, expectation, variance, Gaussian | _to build_ |
 
@@ -63,3 +63,4 @@ Built after the prerequisites that each chapter needs are passed. Each becomes i
 ## Session pointer
 
 - **2026-06-30** — Infra built. P0 concept pages complete. **P1 built out fully** (3 concept pages + [[Quiz P1 Linear Algebra]]), grounded in the book's Chapter 5 eigenvalue example; remains gated behind the P0 quiz. P2–P4 + Ch 1–13 are skeleton entries above, ready to build in later sessions. **Next action: take [[Quiz P0 Math Toolkit]].**
+- **2026-07-01** — **P2 built out fully** (hub + 2 concept pages: [[Derivatives And Integrals]], [[Differential Equations]] + [[Quiz P2 Calculus And Differential Equations]]). Explicitly linked to P0/P1: `d/dt e^{at}=a e^{at}` = the phasor rule, and the ODE characteristic equation = the eigenvalue equation. Gated behind the P1 quiz. P3–P4 + Ch 1–13 remain skeletons. **Next action: still [[Quiz P0 Math Toolkit]] — the gates are strict and sequential.**

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/concepts/complex-numbers.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,12 +182,13 @@
   },
   "active": "39c673aa11b35462",
   "lastOpenFiles": [
+    "wiki/concepts/linear-algebra-essentials.md",
+    "wiki/concepts/complex-numbers.md",
     "wiki/synthesis/quiz-p1-linear-algebra.md",
     "wiki/concepts/eigenvalues-and-eigenvectors.md",
     "wiki/concepts/matrices-and-linear-transformations.md",
     "wiki/concepts/vectors-and-dot-products.md",
     "Complex Numbers.md",
-    "wiki/synthesis/learning-path.md",
-    "wiki/concepts/complex-numbers.md"
+    "wiki/synthesis/learning-path.md"
   ]
 }
